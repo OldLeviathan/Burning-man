@@ -6,6 +6,6 @@ This site was made on a small layout from the Internet. Adaptives and animations
 
 ![screenshot](./public/first.png)
 # ------------------------------
-![screenshot](./public/second.jpg)
+![screenshot](./public/second.png)
 
 
