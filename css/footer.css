@@ -1,0 +1,10 @@
+.footer_text {
+   margin-top: 120px;
+   display: flex;
+   font-family: 'Open Sans';
+   font-size: 14px;
+}
+
+.footer_text p {
+   margin-right: 100px;
+}
